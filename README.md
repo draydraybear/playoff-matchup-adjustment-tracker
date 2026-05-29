@@ -1,5 +1,8 @@
 # Playoff Matchup Adjustment Tracker
 
+**Live Demo:** [Open the Streamlit dashboard]
+https://playoff-matchup-adjustment-tracker-zdee28tjezgw42ujydet6v.streamlit.app/
+
 This project is a small product concept inspired by Databallr’s playoff matchup pages.
 
 Databallr’s current matchup view is useful for series-level totals, but playoff adjustments happen game by game. This prototype adds a game-by-game matchup timeline layer to help users see when defensive responsibilities changed during a playoff series.
